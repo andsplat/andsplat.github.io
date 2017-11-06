@@ -1,4 +1,4 @@
 name: andsplat, a blog by Ben W. Fey
 markdown: kramdown
-permalink: slug
+permalink: /:slug
 paginate: 10
